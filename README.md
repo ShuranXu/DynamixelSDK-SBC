@@ -11,4 +11,5 @@ The custom-ported DynamixelSDK supports the following programming languages.
 - **C**: *Dynamic library and source code of this library and examples
 - **C++**: *Dynamic library and source code of this library and examples
 - **Python**: Python module and examples
+
 (* Dynamic library ( *.so files only) / .so: shared object on Linux )
